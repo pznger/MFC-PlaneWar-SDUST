@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="APlaneGame">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\完整PlaneGame\APlaneGame.sln">
+</Property><Property Name="Date" Value="2022年6月21日">
+</Property><Property Name="Time" Value="11:03">
+</Property><Property Name="日志号" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="APlaneGame.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\完整PlaneGame\APlaneGame.sln.old">
+</Event><Event ErrorLevel="0" Project="PlaneGame" Source="PlaneGame\PlaneGame.vcproj" Description="Converting project file 'C:\Users\Administrator\Desktop\完整PlaneGame\PlaneGame\PlaneGame.vcproj'.">
+</Event><Event ErrorLevel="1" Project="PlaneGame" Source="PlaneGame\PlaneGame.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="PlaneGame" Source="PlaneGame\PlaneGame.vcproj" Description="Done converting to new project file 'C:\Users\Administrator\Desktop\完整PlaneGame\PlaneGame\PlaneGame.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="PlaneGame" Source="PlaneGame\PlaneGame.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="APlaneGame.sln" Description="解决方案文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="" Source="APlaneGame.sln" Description="无需转换">
+</Event></UpgradeLog>

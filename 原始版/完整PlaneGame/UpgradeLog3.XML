@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PlaneGame">
+</Property><Property Name="解决方案文件" Value="F:\cc++实训\C++语言实训例程\PlaneGame\PlaneGame.sln">
+</Property><Property Name="用户选项文件" Value="F:\cc++实训\C++语言实训例程\PlaneGame\PlaneGame.suo">
+</Property><Property Name="Date" Value="2011年11月1日">
+</Property><Property Name="Time" Value="9:11">
+</Property><Property Name="日志号" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PlaneGame.sln" Description="文件已成功备份为 F:\cc++实训\C++语言实训例程\PlaneGame\Backup\PlaneGame.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PlaneGame.suo" Description="文件已成功备份为 F:\cc++实训\C++语言实训例程\PlaneGame\Backup\PlaneGame.suo">
+</Event><Event ErrorLevel="0" Project="" Source="PlaneGame.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="PlaneGame.sln" Description="Converted">
+</Event></UpgradeLog>
