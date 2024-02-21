@@ -1,0 +1,14 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  missle.cpp
+F:\MFC-PlaneWar-SDUST\飞机大战（mfc版）\src\PlaneGame\missle.cpp(89,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/missle.cpp”)
+  
+F:\MFC-PlaneWar-SDUST\飞机大战（mfc版）\src\PlaneGame\missle.cpp(101,48): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+  (编译源文件“/missle.cpp”)
+  
+F:\MFC-PlaneWar-SDUST\飞机大战（mfc版）\src\PlaneGame\missle.cpp(101,37): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+  (编译源文件“/missle.cpp”)
+  
+F:\MFC-PlaneWar-SDUST\飞机大战（mfc版）\src\PlaneGame\missle.cpp(131): warning C4715: “CMissle::LoadImageA”: 不是所有的控件路径都返回值
+Ball.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  PlaneGame.vcxproj -> F:\MFC-PlaneWar-SDUST\飞机大战（mfc版）\src\Debug\PlaneGame.exe
